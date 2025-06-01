@@ -1,0 +1,11 @@
+# Dependencias para la Práctica 1 de Física II
+# Universidad CENFOTEC - Calculadora de Fuerza Eléctrica
+# 
+# Para instalar todas las dependencias ejecuta:
+# pip install -r requirements.txt
+
+# Librería para visualización y gráficos
+matplotlib>=3.5.0
+
+# Librería para cálculos numéricos (opcional, ya incluida en matplotlib)
+numpy>=1.21.0
